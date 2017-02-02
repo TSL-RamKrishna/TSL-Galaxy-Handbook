@@ -1,3 +1,6 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [About Galaxy](chapter1.md)
+* [Registration and Login](registration-and-login.md)
+
