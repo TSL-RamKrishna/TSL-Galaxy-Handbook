@@ -1,4 +1,4 @@
-# About Galaxy
+# Introduction
 
 Galaxy is a framework for integrating computational tools. It allows nearly any tool that can be run from the command line to be wrapped in a well-defined interface. On top of these tools, Galaxy provides an accessible environment for interactive analysis that transparently tracks the details of analysis steps, a workflow system for convenient reuse, data management, sharing, and publishing.
 
