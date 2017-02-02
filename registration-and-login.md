@@ -1,4 +1,4 @@
-
+# Registration and Login
 
 Users are required to register to use galaxy. Please email at ram\_krishna.shrestha@tsl.ac.uk, martin.page@tsl.ac.uk and dan.maclean@tsl.ac.uk with your TSL username for registration.
 
