@@ -8,5 +8,5 @@
 
 ## Upload your local data
 
-## part 1
+## Import data from data library
 
