@@ -16,11 +16,23 @@ In the above figure, multiple input files are selected.
 
 Click **Execute** button when ready to process.
 
-
-
 ![](/assets/FASTQC_3.png)
 
 
 
+Once the jobs are completed, click on the eye button to view the results as shown in figure below.
 
+![](/assets/FASTQC_4_complete.png)
+
+
+
+The FASTQC html file or the web page shows summary of fastq sequence quality \(The page is scrollable\). Each link shows a related plot. The round green button with tick shows the sequence quality score has passed for the related analysis and the red button with cross shows the sequence quality score has failed for the related analysis. See figure below. 
+
+![](/assets/FASTQC_summary.png)
+
+
+
+The FASTQC data text file looks like in the figure below.
+
+![](/assets/FASTQC_data.png)
 
