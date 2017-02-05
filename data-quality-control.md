@@ -8,11 +8,21 @@ Note: Although a fastq dataset has sanger format quality scores, while uploading
 
 Here I show how to do FASTQ grooming.
 
-I start a new history and gave a name **Calling snps.** I uploaded two fastq files as datatype **fastq**. See figure below:
+A new history **Calling snps** is started**.** Two fastq files are uploaded as datatype **fastq**. See figure below:
 
 ![](/assets/uploading_test_data.png)
 
+Select the tool **FASTQC Groomer**.
+
+![](/assets/fastq_groomer_1.png)
+
+![](/assets/fastq_groomer_job_queued.png)
 
 
 
+![](/assets/fastq_groomer_job_running.png)
+
+
+
+![](/assets/fastq_grommer_job_completed.png)
 

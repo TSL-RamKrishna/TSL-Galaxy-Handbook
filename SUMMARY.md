@@ -17,6 +17,7 @@
   * [View File](uploading-your-raw-data/view-file.md)
   * [Add data tags](uploading-your-raw-data/add-data-tags.md)
   * [Add annotations](uploading-your-raw-data/add-annotations.md)
+  * [How to download file](uploading-your-raw-data/download-file.md)
 
 ## Chapter 3
 

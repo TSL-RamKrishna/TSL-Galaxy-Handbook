@@ -4,5 +4,23 @@ Galaxy has a tool - **FASTQC** for quality control. FASTQ data quality control a
 
 Please check [http://www.bioinformatics.babraham.ac.uk/projects/fastqc/](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/ "FASTQC tool") for more information about FASTQC quality check.
 
+To do quality control, select FASTQC tool from the tool panel and select the input file/s . See figures below.
+
+![](/assets/FASTQC_1.png)
+
+In the above figure, a single input file is selected.
+
+![](/assets/FASTQC_2.png)
+
+In the above figure, multiple input files are selected.
+
+Click **Execute** button when ready to process.
+
+
+
+![](/assets/FASTQC_3.png)
+
+
+
 
 
