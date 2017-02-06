@@ -11,8 +11,6 @@ In TSL Galaxy, if you search for a word "trimming" in the search box, a list of 
 
 ![](/assets/trimmomatic_1.png)
 
-
-
 In the above figure, a paired end data are input for trimming. If the data are not paired end, select No at the top and then select one or multiple unpaired data files from the list of files.
 
 Click **Execute** to run the tool.
@@ -21,5 +19,5 @@ Click **Execute** to run the tool.
 
 ![](/assets/trimmomatic_2.png)
 
-
+![](/assets/Trimmomatic_3.png)
 
