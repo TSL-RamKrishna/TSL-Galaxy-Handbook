@@ -25,5 +25,7 @@
 * [FASTQ Quality Control](fastqc.md)
 * [Quality Trimming](quality-trimming.md)
 
-## Qualitiy Trimming
+## Chapter 4
+
+* [Mapping Reads to a Reference](chapter-4/mapping.md)
 
