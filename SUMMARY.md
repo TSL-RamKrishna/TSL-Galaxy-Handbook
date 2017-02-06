@@ -23,4 +23,7 @@
 
 * [FASTQ grooming](data-quality-control.md)
 * [FASTQ Quality Control](fastqc.md)
+* [Quality Trimming](quality-trimming.md)
+
+## Qualitiy Trimming
 

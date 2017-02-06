@@ -6,7 +6,7 @@ Galaxy is available as an open, web-based platform for data intensive life scien
 
 Galaxy can be used on a local desktop computer, in a network server or on cloud based server.
 
-In TSL, galaxy is installed in a network server. It can be accessed using link[https://galaxy.tsl.ac.uk](https://galaxy.tsl.ac.uk/).
+In TSL, galaxy is installed in a network server. It can be accessed using this link [https://galaxy.tsl.ac.uk](https://galaxy.tsl.ac.uk/).
 
-This basic course will cover Galaxy's basic functionality, simple data manipulation and visualization.
+
 
