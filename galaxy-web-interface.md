@@ -6,3 +6,4 @@ The Galaxy's web interface is straightforward. There are three sections. The lef
 
 ![](/assets/Galaxy_web_interface.png)
 
+[DM]: <> (This doesnt describe the interface at all. The picture is too small, the notes are too small, the descriptions in the text are not helpful as they do not lead the reader through the material. Take care to introduce every aspect clearly and to make explicit its purpose. Again use structure in the document. Try to summarise the result of each action.)
