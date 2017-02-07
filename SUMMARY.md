@@ -28,4 +28,6 @@
 ## Chapter 4
 
 * [Mapping Reads to a Reference](chapter-4/mapping.md)
+* [Mpileup ](chapter-4/mpileup.md)
+* [Get Variant Calls with Varscan](chapter-4/get-variant-calls-with-varscan.md)
 
