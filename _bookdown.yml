@@ -1,7 +1,8 @@
 book_filename: "TSL Galaxy HandBook"
 
+output_dir: docs
 
 rmd_files:
-  html: ["preface.md", "galaxy_web_interface.md", "getting_started.md",
+  html: ["index.md", "galaxy_web_interface.md", "getting_started.md",
   "uploading_data_to_galaxy.md", "data_attributes.md", "fastq_grooming.md", 
   "fastqc_quality_check.md", "quality_trimming.md", "mapping_reads.md", "samtools.md", "SNPcall.md", "workflow.md", "history_management.md" ]

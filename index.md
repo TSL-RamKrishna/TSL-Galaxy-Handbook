@@ -1,3 +1,13 @@
+--- 
+title: "TSL Galaxy Hand Book"
+author: "Ram Krishna Shrestha"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+
+description: "A Hand Book to learn Galaxy platform for bioinformatic data analysis for a new user in TSL"
+---
+
 
 
 # Preface
