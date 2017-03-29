@@ -47,5 +47,20 @@ Every column with a history has a button __Switch to__. Select the __Switch to__
 
 ![](images/switch_history.png)
 
+## Copy History
 
+You can make a copy of a current history and then switch to the new hisotry to continue more analysis. Click __History Options__ and select __Copy History__ option. It will then asks you if you want to copy of the current history that includes all datasets in the original history or just the active (not deleted) datasets. See figures below:
 
+![](images/copy_history_1.png)
+
+![](images/copy_history_2.png)
+
+Choose an option and click __copy__. 
+
+## Copy Datasets
+
+Click __History Options__ and select __Copy Datasets__. A form for copying the data from one history to another is displayed at the center. At the left of the form, select the history with the data you want to copy and then select one or more datasets. At the right of the form, select a history from drop down or click __choose multiple histories__ to copy data to more than one history. You can also copy the datasets to a new history. See figures below:
+
+![](images/copy_datasets_1.png)
+
+![](images/copy_datasets_2.png)

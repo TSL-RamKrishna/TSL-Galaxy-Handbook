@@ -26,6 +26,6 @@ When a user logins for the first time, the user has no any history. Let's create
 
 ![](images/select_create_new_history.png)
 
-A new history is created. By default, the history name is __unnamed history__. Double click on the __unnamee history__ and type in the name of the analysis you want it to be. It is wise to name the history by the type of the project and analysis you are doing e.g. __RNAseq_snpcalling__.
+A new history is created. By default, the history name is __unnamed history__. Double click on the __unnamed history__ and type in the name of the analysis you want it to be. It is wise to name the history by the type of the project and analysis you are doing e.g. __RNAseq_snpcalling__.
 
 
